@@ -1,0 +1,17 @@
+/home/raiardinata/playground/advent_of_code/2024/day2/Red_Nosed_Reports/bin/Debug/net9.0/Red_Nosed_Reports
+/home/raiardinata/playground/advent_of_code/2024/day2/Red_Nosed_Reports/bin/Debug/net9.0/Red_Nosed_Reports.deps.json
+/home/raiardinata/playground/advent_of_code/2024/day2/Red_Nosed_Reports/bin/Debug/net9.0/Red_Nosed_Reports.runtimeconfig.json
+/home/raiardinata/playground/advent_of_code/2024/day2/Red_Nosed_Reports/bin/Debug/net9.0/Red_Nosed_Reports.dll
+/home/raiardinata/playground/advent_of_code/2024/day2/Red_Nosed_Reports/bin/Debug/net9.0/Red_Nosed_Reports.pdb
+/home/raiardinata/playground/advent_of_code/2024/day2/Red_Nosed_Reports/bin/Debug/net9.0/Newtonsoft.Json.dll
+/home/raiardinata/playground/advent_of_code/2024/day2/Red_Nosed_Reports/obj/Debug/net9.0/Red_Nosed_Reports.csproj.AssemblyReference.cache
+/home/raiardinata/playground/advent_of_code/2024/day2/Red_Nosed_Reports/obj/Debug/net9.0/Red_Nosed_Reports.GeneratedMSBuildEditorConfig.editorconfig
+/home/raiardinata/playground/advent_of_code/2024/day2/Red_Nosed_Reports/obj/Debug/net9.0/Red_Nosed_Reports.AssemblyInfoInputs.cache
+/home/raiardinata/playground/advent_of_code/2024/day2/Red_Nosed_Reports/obj/Debug/net9.0/Red_Nosed_Reports.AssemblyInfo.cs
+/home/raiardinata/playground/advent_of_code/2024/day2/Red_Nosed_Reports/obj/Debug/net9.0/Red_Nosed_Reports.csproj.CoreCompileInputs.cache
+/home/raiardinata/playground/advent_of_code/2024/day2/Red_Nosed_Reports/obj/Debug/net9.0/Red_Nose.D370AC72.Up2Date
+/home/raiardinata/playground/advent_of_code/2024/day2/Red_Nosed_Reports/obj/Debug/net9.0/Red_Nosed_Reports.dll
+/home/raiardinata/playground/advent_of_code/2024/day2/Red_Nosed_Reports/obj/Debug/net9.0/refint/Red_Nosed_Reports.dll
+/home/raiardinata/playground/advent_of_code/2024/day2/Red_Nosed_Reports/obj/Debug/net9.0/Red_Nosed_Reports.pdb
+/home/raiardinata/playground/advent_of_code/2024/day2/Red_Nosed_Reports/obj/Debug/net9.0/Red_Nosed_Reports.genruntimeconfig.cache
+/home/raiardinata/playground/advent_of_code/2024/day2/Red_Nosed_Reports/obj/Debug/net9.0/ref/Red_Nosed_Reports.dll

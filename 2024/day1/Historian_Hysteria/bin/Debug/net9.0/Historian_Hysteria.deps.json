@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Historian_Hysteria/1.0.0": {
+        "runtime": {
+          "Historian_Hysteria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Historian_Hysteria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
